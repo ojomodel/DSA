@@ -1,3 +1,7 @@
+"""
+this is without watching the video for this lesson
+"""
+
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         hashset = set() # {r, a, c, e}
